@@ -1,1 +1,3 @@
 Cold and dry, but everything is my favorite color
+
+This is the second sentence to mars.txt for a change
